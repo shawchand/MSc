@@ -1,6 +1,6 @@
       seqfile = Scodonaln.txt   * sequence data filename
       treefile = sgene.tree
-      outfile = C:\Users\awila\OneDrive\Desktop\Thesis\Bin\SgenewoP1\SiteModels\SiteModelsrefhuman\results\M0SiteModel.txt   * main result file name
+      outfile = ..\results\M0SiteModelnew.txt   * main result file name
 
         noisy = 3
       verbose = 0
