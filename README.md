@@ -9,6 +9,6 @@ command:
 CODEML
 
 
-PAML_plots_for_Thesis.html contains some plots which has been obtained from the CODEML analysis of the Site Models.
+PAML_plots_for_Thesis.html contains some plots done in R, the data for which has been obtained from the CODEML analysis of the Site Models.
 
 
