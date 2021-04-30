@@ -2,7 +2,7 @@ Mapping person-to-person variation in viral mutations that escape antibodies of 
 
 Protein 6M0J => ACE2-bound RBD structure
 
-
+When you click on sites, they will be highlighted on the protein structure of the ACE2-bound RBD (PDB 6M0J, or antibody-bound RBD structures (PDB 6XDG and PDB 7C01).
 
 At the site level you can visualize one of two quantities:
 
